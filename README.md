@@ -60,6 +60,11 @@ A curated list of the best AI tools for running and growing a business in 2026.
 
 | Tool | Description |
 |------|-------------|
+| [OpenClaw SOUL.md Generator](https://www.midastools.co/soul-generator) | Build your AI agent config in 60 seconds — 6 industry presets — free |
+| [AI Prompt Roaster](https://www.midastools.co/prompt-roaster) | Get your AI prompts brutally roasted, then fixed — free |
+| [AI Prompt Enhancer](https://www.midastools.co/prompt-enhancer) | Transform any prompt into 5 expert versions — free |
+| [AI Prompt Scorer](https://www.midastools.co/prompt-scorer) | Score your AI prompts from 1-100 — free |
+| [AI Image Prompt Builder](https://www.midastools.co/image-prompt-builder) | Build prompts for Midjourney, DALL-E, ChatGPT — 12 styles — free |
 | [Midas AI Prompt Generator](https://www.midastools.co/prompt-generator) | Generate custom AI prompts for any use case — free |
 | [Midas Business Name Generator](https://www.midastools.co/business-name-generator) | AI-powered business name ideas — free |
 | [Midas Hashtag Generator](https://www.midastools.co/hashtag-generator) | Generate trending hashtags for any topic — free |
