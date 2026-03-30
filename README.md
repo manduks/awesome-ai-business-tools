@@ -66,6 +66,8 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [AI Prompt Scorer](https://www.midastools.co/prompt-scorer) | Score your AI prompts from 1-100 — free |
 | [AI Image Prompt Builder](https://www.midastools.co/image-prompt-builder) | Build prompts for Midjourney, DALL-E, ChatGPT — 12 styles — free |
 | [Midas AI Prompt Generator](https://www.midastools.co/prompt-generator) | Generate custom AI prompts for any use case — free |
+| [AI Job Risk Calculator](https://www.midastools.co/ai-job-risk) | Check if AI will replace your job — 40+ occupations — free |
+| [AI Income Blueprint Quiz](https://www.midastools.co/ai-income-blueprint) | Find AI side hustles matching your skills — free |
 | [Midas Business Name Generator](https://www.midastools.co/business-name-generator) | AI-powered business name ideas — free |
 | [Midas Hashtag Generator](https://www.midastools.co/hashtag-generator) | Generate trending hashtags for any topic — free |
 | [Midas Email Subject Line Tester](https://www.midastools.co/email-subject-line-tester) | Score your email subject lines — free |
@@ -80,6 +82,12 @@ A curated list of the best AI tools for running and growing a business in 2026.
 Want everything? **[The Midas Tools Bundle](https://www.midastools.co/bundle)** includes all 15 AI prompt kits (2,000+ prompts) for $97 — 82% off buying individually.
 
 ---
+
+## Related Resources
+
+- **[AI Job Risk Database 2026](https://github.com/manduks/ai-job-risk-database)** — 102 occupations ranked by AI automation risk. Data from BLS, WEF, Goldman Sachs.
+- **[AI Prompt Cheat Sheet](https://github.com/manduks/ai-prompt-cheatsheet)** — 200+ copy-paste prompts for ChatGPT, Claude, Midjourney, organized by use case.
+- **[Free AI Prompts](https://github.com/manduks/free-ai-prompts)** — 100+ free prompts for business, sales, images, marketing.
 
 ## Contributing
 
