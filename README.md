@@ -46,6 +46,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 |------|-------------|-------|
 | [Apollo.io](https://www.apollo.io) | Sales intelligence and engagement | Free/$49/mo |
 | [Clay](https://www.clay.com) | AI-powered data enrichment for outreach | $149/mo |
+| [SalesLabel](https://sales-label.com) | White-label outbound sales infrastructure for B2B agencies. Done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand. | Contact sales |
 | [Midas Freelancer Kit](https://www.midastools.co/freelancer-kit) | AI prompts for proposals, pricing, client management | $39 |
 
 ## Analytics & SEO
