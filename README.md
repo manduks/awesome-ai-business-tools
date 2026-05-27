@@ -71,6 +71,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [Midas Business Name Generator](https://www.midastools.co/business-name-generator) | AI-powered business name ideas — free |
 | [Midas Hashtag Generator](https://www.midastools.co/hashtag-generator) | Generate trending hashtags for any topic — free |
 | [Midas Email Subject Line Tester](https://www.midastools.co/email-subject-line-tester) | Score your email subject lines — free |
+| [LandscapioAI](https://www.landscapioai.com/) | AI landscape design generator with project plans, cost estimates, and contractor-ready briefs | Free |
 | [ChatGPT](https://chat.openai.com) | OpenAI's conversational AI | Free/$20/mo |
 | [Claude](https://claude.ai) | Anthropic's AI assistant | Free/$20/mo |
 | [Perplexity](https://www.perplexity.ai) | AI-powered search engine | Free/$20/mo |
