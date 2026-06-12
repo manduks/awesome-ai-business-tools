@@ -22,6 +22,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [PromptBase](https://promptbase.com) | Marketplace for buying and selling AI prompts | Varies |
 | [AIPRM](https://www.aiprm.com) | Chrome extension with curated ChatGPT prompts | Free/$20/mo |
 | [PromptPerfect](https://promptperfect.jina.ai) | Automatic prompt optimization | Free/$9.99/mo |
+| [CreatorSkills](https://creatorskills.co) | 30+ downloadable AI skills for content creators — YouTube scripting, sponsorships, audience growth. Works with Claude & ChatGPT. | From $9 |
 
 ## Content Creation
 
