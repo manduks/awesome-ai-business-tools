@@ -55,6 +55,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [Ahrefs](https://ahrefs.com) | SEO toolset | $99/mo |
 | [Semrush](https://www.semrush.com) | Marketing toolkit | $139/mo |
 | [Surfer SEO](https://surferseo.com) | Content optimization | $69/mo |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO & paid ads — Google Ads MCP, Meta Ads MCP, Google Search Console MCP, GA4 MCP | Free |
 
 ## Free Tools
 
