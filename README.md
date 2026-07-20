@@ -55,6 +55,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [Ahrefs](https://ahrefs.com) | SEO toolset | $99/mo |
 | [Semrush](https://www.semrush.com) | Marketing toolkit | $139/mo |
 | [Surfer SEO](https://surferseo.com) | Content optimization | $69/mo |
+| [Screpy](https://screpy.com/) | AI SEO audits, rank tracking, and reporting | $16/mo |
 
 ## Free Tools
 
