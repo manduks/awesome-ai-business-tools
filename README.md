@@ -31,6 +31,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 | [Copy.ai](https://www.copy.ai) | AI copywriting for sales & marketing | Free/$49/mo |
 | [Writesonic](https://writesonic.com) | AI writer for articles, ads, product descriptions | $19/mo |
 | [Midas Content Creator Kit](https://www.midastools.co/content-creator-kit) | 150+ prompts for blog posts, social media, video scripts | $39 |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines. | MIT; source install; optional paid generation |
 
 ## Email Marketing
 
