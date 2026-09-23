@@ -84,6 +84,7 @@ Want everything? **[The Midas Tools Bundle](https://www.midastools.co/bundle)** 
 ---
 
 ## Related Resources
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 - **[AI Job Risk Database 2026](https://github.com/manduks/ai-job-risk-database)** — 102 occupations ranked by AI automation risk. Data from BLS, WEF, Goldman Sachs.
 - **[AI Prompt Cheat Sheet](https://github.com/manduks/ai-prompt-cheatsheet)** — 200+ copy-paste prompts for ChatGPT, Claude, Midjourney, organized by use case.
