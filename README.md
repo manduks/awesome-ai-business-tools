@@ -46,6 +46,7 @@ A curated list of the best AI tools for running and growing a business in 2026.
 |------|-------------|-------|
 | [Apollo.io](https://www.apollo.io) | Sales intelligence and engagement | Free/$49/mo |
 | [Clay](https://www.clay.com) | AI-powered data enrichment for outreach | $149/mo |
+| [Genaya](https://genaya.com) | AI CRM and operations for service businesses: leads, scheduling, invoices, AI phone receptionist | Free trial/$99/mo |
 | [Midas Freelancer Kit](https://www.midastools.co/freelancer-kit) | AI prompts for proposals, pricing, client management | $39 |
 
 ## Analytics & SEO
